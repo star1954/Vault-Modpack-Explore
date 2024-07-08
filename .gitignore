@@ -12,3 +12,5 @@ minecraftinstance.json
 servers.dat
 servers.dat_old
 Distant_Horizons_server_data/*
+dynmap/*
+minecraftinstance.json
