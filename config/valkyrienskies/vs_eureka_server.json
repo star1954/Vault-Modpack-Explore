@@ -26,7 +26,7 @@
   "doFluidDrag" : false,
   "massPerBalloon" : 10000.0,
   "turnSpeed" : 8.0,
-  "turnAcceleration" : 10.0,
+  "turnAcceleration" : 3.0,
   "maxSizeForTurnSpeedPenalty" : 16.0,
   "stabilizationTorqueConstant" : 15.0,
   "linearStabilizeMaxAntiVelocity" : 0.8,
