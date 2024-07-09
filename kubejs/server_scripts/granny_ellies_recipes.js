@@ -13,9 +13,9 @@ ServerEvents.recipes(event => {
 })
     //SHAPELESS CRAFTING
     event.shapeless(
-        Item.of('minecraft:paper', 1), // arg 1: output
+        Item.of('minecraft:paper', 4), // arg 1: output
         [
-        '4x minecraft:phantom_membrane'
+        '1x minecraft:phantom_membrane'
         ]
     )
     // COOKING RECIPES
