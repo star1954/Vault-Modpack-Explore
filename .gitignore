@@ -22,3 +22,5 @@ schematics/*
 config/jei/world/*
 config/DistantHorizons.toml
 config/oculus.properties
+
+.oauth-account-manager/*
