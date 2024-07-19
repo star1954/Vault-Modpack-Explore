@@ -17,4 +17,8 @@ minecraftinstance.json
 screenshots/*
 simplebackups/*
 schematics/*
+
+
 config/jei/world/*
+config/DistantHorizons.toml
+config/oculus.properties
