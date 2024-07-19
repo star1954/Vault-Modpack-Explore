@@ -24,3 +24,6 @@ config/DistantHorizons.toml
 config/oculus.properties
 
 .oauth-account-manager/*
+immersive_paintings_cache/*
+immersive_paintings/*
+armourers_workshop/*
