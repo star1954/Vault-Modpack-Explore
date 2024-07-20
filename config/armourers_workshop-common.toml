@@ -62,12 +62,12 @@
 	#1 = never drop
 	#2 = always drop
 	#Range: 0 ~ 2
-	playerDropSkinsOnDeath = 0
+	playerDropSkinsOnDeath = 1
 
 #Setting for the library blocks.
 [library]
 	#Allows clients to save skins from a server to their local computer using the library.
-	allowDownloadingSkins = false
+	allowDownloadingSkins = true
 	#Allows clients to load skins from their local computer onto the server using the library.
 	allowUploadingSkins = true
 	#Allow the mod to extract the official skins that come with the mod into the library folder.
@@ -78,7 +78,7 @@
 	allowPreviewSkins = true
 	#Allows clients to manage skins of the server computer library.
 	#Required permission level 5 or higher.
-	allowManageSkins = false
+	allowManageSkins = true
 	#We priority use https for the access token APIs.
 	skinServerURLs = []
 
